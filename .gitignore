@@ -15,7 +15,8 @@
 
 # next.js
 /.next/
-/out/
+# Não pode ser ignorado pois será controlada a versão
+# /out/
 
 # production
 /build
